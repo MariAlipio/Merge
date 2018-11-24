@@ -1,0 +1,11 @@
+C:\Users\alipi\Desktop\ADS\Merge\Merge\bin\Debug\netcoreapp2.1\Merge.deps.json
+C:\Users\alipi\Desktop\ADS\Merge\Merge\bin\Debug\netcoreapp2.1\Merge.runtimeconfig.json
+C:\Users\alipi\Desktop\ADS\Merge\Merge\bin\Debug\netcoreapp2.1\Merge.runtimeconfig.dev.json
+C:\Users\alipi\Desktop\ADS\Merge\Merge\bin\Debug\netcoreapp2.1\Merge.dll
+C:\Users\alipi\Desktop\ADS\Merge\Merge\bin\Debug\netcoreapp2.1\Merge.pdb
+C:\Users\alipi\Desktop\ADS\Merge\Merge\obj\Debug\netcoreapp2.1\Merge.csprojAssemblyReference.cache
+C:\Users\alipi\Desktop\ADS\Merge\Merge\obj\Debug\netcoreapp2.1\Merge.csproj.CoreCompileInputs.cache
+C:\Users\alipi\Desktop\ADS\Merge\Merge\obj\Debug\netcoreapp2.1\Merge.AssemblyInfoInputs.cache
+C:\Users\alipi\Desktop\ADS\Merge\Merge\obj\Debug\netcoreapp2.1\Merge.AssemblyInfo.cs
+C:\Users\alipi\Desktop\ADS\Merge\Merge\obj\Debug\netcoreapp2.1\Merge.dll
+C:\Users\alipi\Desktop\ADS\Merge\Merge\obj\Debug\netcoreapp2.1\Merge.pdb
